@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there, I'm Tony Mathebula
 
-<!--
-**Tonym33/Tonym33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Based in South Africa | ☁️ Cloud Computing | 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I'm an aspiring **Cloud and DevOps Engineer** currently diving deep into:
+- 🧠 AWS Cloud (Networking, EC2, IAM, CloudFormation)
+- 🔧 DevOps Tools (Terraform, Docker, GitHub Actions)
+- 🛠️ Scripting (Bash, Python)
+ 
+I believe in **continuous learning**, **automating everything**, and **building scalable solutions**. I have some backround in IT support and operations, where I gained some valuable skills in configuring and troubleshooting computer and network systems.
+
+
+---
+
+### 🧰 Tech Stack
+
+```yaml
+Languages:      Python, Bash, JavaScript
+Cloud:          AWS, Azure (Basics)
+DevOps:         Docker, GitHub Actions, Terraform (Learning)
+IaC:            AWS CloudFormation, Terraform
+Tools:          Linux, Git, VS Code
